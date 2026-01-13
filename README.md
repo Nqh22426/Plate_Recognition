@@ -1,4 +1,6 @@
-1. Methods Used
+# Plate Recognition
+
+## Methods Used
 🔹 Image Processing
 
 - Gaussian Blur: Used to reduce noise before further processing.
@@ -19,7 +21,7 @@
 
 - Used for character recognition (0–9, A–Z)
 
-2. Dataset
+## Dataset
 📁 License Plate Detection Dataset
 
 plate_detection_dataset/
@@ -38,7 +40,7 @@ char_dataset/
 ├── ...
 └── Z/
 
-3. System Pipeline
+## System Pipeline
 
 - Image preprocessing (Gaussian blur, thresholding)
 
